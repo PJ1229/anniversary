@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 642 672">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: none;
+        stroke: #c00;
+        stroke-width: .75px;
+      }
+    </style>
+  </defs>
+  <rect class="st0" width="642" height="672"/>
+  <path class="st1" d="M44.18,36.25h20v-12h40v12h20v-12h40v12h20v-12h40v12h20v20h12v60h-12v40h12v60h-12v40h12v60h-12v20h-20v12h-40v-12h-20v12h-40v-12h-20v12h-40v-12h-20v-20h-12v-60h12v-40h-12v-60h12v-40h-12v-60h12v-20Z"/>
+  <path class="st1" d="M290.18,36.25h20v-12h40v12h20v-12h40v12h20v-12h40v12h20v20h12v60h-12v40h12v60h-12v40h12v60h-12v20h-20v12h-40v-12h-20v12h-40v-12h-20v12h-40v-12h-20v-20h-12v-60h12v-40h-12v-60h12v-40h-12v-60h12v-20Z"/>
+  <path class="st1" d="M44.18,382.25h20v12h60v-12h40v12h60v-12h40v12h60v-12h20v10h12v20h-12v10h12v20h-12v10h12v20h-12v10h-20v-12h-60v12h-40v-12h-60v12h-40v-12h-60v12h-20v-10h-12v-20h12v-10h-12v-20h12v-10h-12v-20h12v-10Z"/>
+  <path class="st1" d="M44.18,512.25h20v12h60v-12h40v12h60v-12h40v12h60v-12h20v10h12v20h-12v10h12v20h-12v10h12v20h-12v10h-20v-12h-60v12h-40v-12h-60v12h-40v-12h-60v12h-20v-10h-12v-20h12v-10h-12v-20h12v-10h-12v-20h12v-10Z"/>
+  <path class="st1" d="M390.18,382.25h20v12h40v-12h20v12h40v-12h20v12h40v-12h20v10h-12v20h12v10h-12v20h12v10h-12v20h12v10h-20v-12h-40v12h-20v-12h-40v12h-20v-12h-40v12h-20v-10h12v-20h-12v-10h12v-20h-12v-10h12v-20h-12v-10Z"/>
+  <path class="st1" d="M390.18,512.25h20v12h40v-12h20v12h40v-12h20v12h40v-12h20v10h-12v20h12v10h-12v20h12v10h-12v20h12v10h-20v-12h-40v12h-20v-12h-40v12h-20v-12h-40v12h-20v-10h12v-20h-12v-10h12v-20h-12v-10h12v-20h-12v-10Z"/>
+</svg>
