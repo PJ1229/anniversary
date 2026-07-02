@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="249.800mm" height="206.625mm" viewBox="0 0 249.800 206.625">
+  <title>Inner drawer - largest face removed - LOOSE finger clearance - CUT ONLY</title>
+  <metadata><![CDATA[{
+  "units": "mm",
+  "material_thickness_mm": 3.175,
+  "assumed_kerf_mm": 0.15,
+  "explicit_finger_clearance_mm_total": 0.3,
+  "explicit_finger_clearance_mm_each_side": 0.15,
+  "drawer_clearance_each_sliding_side_mm": 0.25,
+  "drawer_external_dimensions_mm": {
+    "length": 106.325,
+    "height": 63.15,
+    "depth": 38.15
+  },
+  "open_face_removed": {
+    "face": "largest L x H face",
+    "area_mm2": 6714.424
+  },
+  "revision": "largest-face-open tray, looser finger clearance",
+  "finger_clearance_note": "Male tab widths are reduced by 0.30 mm total; female notch widths are increased by 0.30 mm total.",
+  "fit_check": {
+    "outer_internal_space_mm": {
+      "length": 106.825,
+      "height": 63.65,
+      "depth": 38.65
+    },
+    "drawer_outer_size_mm": {
+      "length": 106.325,
+      "height": 63.15,
+      "depth": 38.15
+    },
+    "clearance_total_mm_each_axis": {
+      "length": 0.5,
+      "height": 0.5,
+      "depth": 0.5
+    },
+    "clearance_per_side_mm_each_axis": {
+      "length": 0.25,
+      "height": 0.25,
+      "depth": 0.25
+    }
+  },
+  "verification": {
+    "self_intersections_total": 5,
+    "panel_bbox_overlaps": 0
+  }
+}]]></metadata>
+  <g id="CUT_PATHS" fill="none" stroke="#000000" stroke-width="0.010" stroke-linejoin="miter" stroke-linecap="butt">
+    <path id="BACK_LxH_opposite_open_largest_face" d="M 10.000 10.000 L 25.339 10.000 L 25.339 6.825 L 40.229 6.825 L 40.229 10.000 L 55.718 10.000 L 55.718 6.825 L 70.607 6.825 L 70.607 10.000 L 86.096 10.000 L 86.096 6.825 L 100.986 6.825 L 100.986 10.000 L 116.325 10.000 L 116.325 22.780 L 119.500 22.780 L 119.500 35.110 L 116.325 35.110 L 116.325 48.040 L 119.500 48.040 L 119.500 60.370 L 116.325 60.370 L 116.325 73.150 L 100.986 73.150 L 100.986 76.325 L 86.096 76.325 L 86.096 73.150 L 70.607 73.150 L 70.607 76.325 L 55.718 76.325 L 55.718 73.150 L 40.229 73.150 L 40.229 76.325 L 25.339 76.325 L 25.339 73.150 L 10.000 73.150 L 10.000 60.370 L 6.825 60.370 L 6.825 48.040 L 10.000 48.040 L 10.000 35.110 L 6.825 35.110 L 6.825 22.780 L 10.000 22.780 L 10.000 10.000 Z"/>
+    <path id="TOP_LxD_cap_smooth_open_front_edge" d="M 10.000 95.150 L 116.325 95.150 L 116.325 108.017 L 119.500 108.017 L 119.500 120.433 L 116.325 120.433 L 116.325 133.300 L 101.286 133.300 L 101.286 130.125 L 85.796 130.125 L 85.796 133.300 L 70.907 133.300 L 70.907 130.125 L 55.418 130.125 L 55.418 133.300 L 40.529 133.300 L 40.529 130.125 L 25.039 130.125 L 25.039 133.300 L 10.000 133.300 L 10.000 120.433 L 6.825 120.433 L 6.825 108.017 L 10.000 108.017 L 10.000 95.150 Z"/>
+    <path id="BOTTOM_LxD_floor_smooth_open_front_edge" d="M 10.000 155.300 L 25.039 155.300 L 25.039 158.475 L 40.529 158.475 L 40.529 155.300 L 55.418 155.300 L 55.418 158.475 L 70.907 158.475 L 70.907 155.300 L 85.796 155.300 L 85.796 158.475 L 101.286 158.475 L 101.286 155.300 L 116.325 155.300 L 116.325 168.167 L 119.500 168.167 L 119.500 180.583 L 116.325 180.583 L 116.325 193.450 L 10.000 193.450 L 10.000 180.583 L 6.825 180.583 L 6.825 168.167 L 10.000 168.167 L 10.000 155.300 Z"/>
+    <path id="LEFT_END_DxH_smooth_open_front_edge" d="M 138.325 10.000 L 150.892 10.000 L 150.892 13.175 L 163.908 13.175 L 163.908 10.000 L 176.475 10.000 L 176.475 22.480 L 173.300 22.480 L 173.300 35.410 L 176.475 35.410 L 176.475 47.740 L 173.300 47.740 L 173.300 60.670 L 176.475 60.670 L 176.475 73.150 L 163.908 73.150 L 163.908 69.975 L 150.892 69.975 L 150.892 73.150 L 138.325 73.150 L 138.325 10.000 Z"/>
+    <path id="RIGHT_PULL_END_DxH_smooth_open_front_edge" d="M 198.475 10.000 L 211.042 10.000 L 211.042 13.175 L 224.058 13.175 L 224.058 10.000 L 236.625 10.000 L 236.625 73.150 L 224.058 73.150 L 224.058 69.975 L 211.042 69.975 L 211.042 73.150 L 198.475 73.150 L 198.475 60.670 L 201.650 60.670 L 201.650 47.740 L 198.475 47.740 L 198.475 35.410 L 201.650 35.410 L 201.650 22.480 L 198.475 22.480 L 198.475 10.000 Z"/>
+  </g>
+</svg>
