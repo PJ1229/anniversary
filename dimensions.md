@@ -94,8 +94,6 @@ All values in millimeters unless noted otherwise. Current canonical files use th
 
 | File | Purpose |
 |------|---------|
-| `outer_camera_shell_cut.svg` | Outer shell — hairline stroke for laser cutting |
-| `outer_camera_shell_preview.svg` | Outer shell — thick stroke preview |
-| `inner_drawer_cut.svg` | Inner drawer — hairline stroke for laser cutting |
-| `inner_drawer_preview.svg` | Inner drawer — thick stroke preview |
-| `archive/` | Superseded earlier iterations |
+| `outer_camera_shell.svg` | Outer shell — final Illustrator export |
+| `inner_drawer.svg` | Inner drawer — final Illustrator export |
+| `archive/` | Superseded earlier iterations (including loose-clearance cut/preview pairs) |

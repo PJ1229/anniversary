@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 955.06 433.49">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #c00;
+        stroke-miterlimit: 11.34;
+        stroke-width: 2.13px;
+      }
+    </style>
+  </defs>
+  <path id="outer_bottom_panel" class="st0" d="M409.25,1.06h61.94v9h63.21V1.06h61.51v9h63.21V1.06h61.94v127.56h-61.94v-9h-63.21v9h-61.51v-9h-63.21v9h-61.94.08V1.06h-.08Z"/>
+  <path id="outer_front_panel" class="st0" d="M1.06,225h62.79v-9h61.51v9h63.21v-9h61.51v9h62.79v198.43h-62.79v9h-61.51v-9h-63.21v9h-61.51v-9H1.06v-39.26h9v-40.54H1.06v-38.83h9v-40.54H1.06v-39.26Z"/>
+  <path id="outer_back_panel" class="st0" d="M409.25,225h62.79v-9h61.51v9h63.21v-9h61.51v9h62.79v198.43h-62.79v9h-61.51v-9h-63.21v9h-61.51v-9h-62.79v-39.26h9v-40.54h-9v-38.83h9v-40.54h-9v-39.26Z"/>
+  <path id="outer_left_end_small_side_FULL_EDGE_EXTENDED" class="st0" d="M817.44,225h.43v-9h126.71v9h.43v40.11h9v38.83h-9v40.54h9v38.83h-9v40.11h-.43v9h-126.71v-9h-.43v-40.11h-9v-38.83h9v-40.54h-9v-38.83h9v-40.11Z"/>
+  <path id="outer_bottom_panel1" data-name="outer_bottom_panel" class="st0" d="M1.06,1.06h61.94v9h63.21V1.06h61.51v9h63.21V1.06h61.94v127.56h-61.94v-9h-63.21v9h-61.51v-9h-63.21v9H1.06h.08V1.06h-.08Z"/>
+</svg>
