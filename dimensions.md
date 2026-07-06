@@ -1,6 +1,6 @@
 # Dimensions
 
-All values in millimeters unless noted otherwise. Current canonical files use the loose finger-clearance revision.
+All values in millimeters unless noted otherwise. Current canonical files use the loose finger-clearance revision with **oversized cap** small sides.
 
 ## Shared build parameters
 
@@ -16,7 +16,7 @@ All values in millimeters unless noted otherwise. Current canonical files use th
 
 ## Outer camera shell
 
-**Files:** `outer_camera_shell_cut.svg`, `outer_camera_shell_preview.svg`
+**File:** `outer_camera_shell.svg`
 
 | Dimension | Value |
 |-----------|-------|
@@ -24,6 +24,15 @@ All values in millimeters unless noted otherwise. Current canonical files use th
 | External height | 70.0 |
 | External depth | 45.0 |
 | Opening | Right side open |
+
+### Oversized cap side (left end)
+
+| | Nominal | Actual cut body |
+|---|---------|-----------------|
+| Depth | 45.0 | 51.35 (depth + 2× thickness) |
+| Height | 70.0 | 76.35 (height + 2× thickness) |
+
+The small side reaches top, bottom, front, and back panels at the corners.
 
 ### Panels
 
@@ -33,7 +42,7 @@ All values in millimeters unless noted otherwise. Current canonical files use th
 | Bottom | 110.0 × 45.0 | 2 finger features per connected edge |
 | Front | 110.0 × 70.0 | 2 finger features per connected edge |
 | Back | 110.0 × 70.0 | 2 finger features per connected edge |
-| Left end | 45.0 × 70.0 | Right side omitted (open face) |
+| Left end | 45.0 × 70.0 (nominal) | Oversized cap; right side open |
 
 ### Finger joint sizing (outer shell)
 
@@ -47,13 +56,13 @@ All values in millimeters unless noted otherwise. Current canonical files use th
 
 | Property | Value |
 |----------|-------|
-| Sheet size | 368.175 × 184.175 |
+| Sheet size | 344.0 × 156.1 |
 
 ---
 
 ## Inner drawer
 
-**Files:** `inner_drawer_cut.svg`, `inner_drawer_preview.svg`
+**File:** `inner_drawer.svg`
 
 | Dimension | Value |
 |-----------|-------|
@@ -63,6 +72,15 @@ All values in millimeters unless noted otherwise. Current canonical files use th
 | Open face removed | Largest L × H face (front) |
 | Open face area | 6714.424 mm² |
 
+### Oversized cap sides (left & right ends)
+
+| | Nominal | Actual cut body |
+|---|---------|-----------------|
+| Depth | 38.15 | 41.325 (depth + 1× thickness) |
+| Height | 63.15 | 69.5 (height + 2× thickness) |
+
+Each small side reaches the top panel, bottom panel, and back wall while leaving the largest face open.
+
 ### Panels
 
 | Panel | Face size | Notes |
@@ -70,8 +88,8 @@ All values in millimeters unless noted otherwise. Current canonical files use th
 | Back wall | 106.325 × 63.15 (L × H) | Opposite the open face |
 | Top cap | 106.325 × 38.15 (L × D) | Open front edge is smooth |
 | Bottom floor | 106.325 × 38.15 (L × D) | Open front edge is smooth |
-| Left end | 38.15 × 63.15 (D × H) | Open front edge is smooth |
-| Right pull end | 38.15 × 63.15 (D × H) | Open front edge is smooth |
+| Left end | 38.15 × 63.15 (nominal) | Oversized cap |
+| Right pull end | 38.15 × 63.15 (nominal) | Oversized cap |
 
 ### Drawer fit inside outer shell
 
@@ -86,7 +104,7 @@ All values in millimeters unless noted otherwise. Current canonical files use th
 
 | Property | Value |
 |----------|-------|
-| Sheet size | 249.800 × 206.625 |
+| Sheet size | 219.2 × 173.7 |
 
 ---
 
@@ -94,6 +112,6 @@ All values in millimeters unless noted otherwise. Current canonical files use th
 
 | File | Purpose |
 |------|---------|
-| `outer_camera_shell.svg` | Outer shell — final Illustrator export |
-| `inner_drawer.svg` | Inner drawer — final Illustrator export |
-| `archive/` | Superseded earlier iterations (including loose-clearance cut/preview pairs) |
+| `outer_camera_shell.svg` | Outer shell — oversized cap side (Illustrator export) |
+| `inner_drawer.svg` | Inner drawer — oversized cap sides (Illustrator export) |
+| `archive/` | Superseded earlier iterations |
