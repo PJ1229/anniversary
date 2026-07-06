@@ -1,40 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 975.00 442.50">
-  <title>Outer shell - oversized cap side - PREVIEW</title>
-  <metadata><![CDATA[{
-  "units": "Illustrator px, scaled from mm",
-  "px_per_mm": 2.834645669291339,
-  "material_thickness_mm": 3.175,
-  "material_thickness_px": 9.0,
-  "finger_clearance_total_mm": 0.3,
-  "fix": "smallest outer side is now an oversized cap, not only tabbed",
-  "smallest_side_nominal_mm": {
-    "depth": 45,
-    "height": 70
-  },
-  "smallest_side_actual_cut_body_mm": {
-    "depth_plus_2_thickness": 51.35,
-    "height_plus_2_thickness": 76.35
-  },
-  "why": "This lets the small side reach top, bottom, front, and back panels at the corners.",
-  "verification": {
-    "proper_self_intersections_total": 0,
-    "panel_bbox_overlaps": 0
-  }
-}]]></metadata>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 898.93 440.39">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
   <defs>
     <style>
       .st0 {
         fill: none;
-        stroke: #c00;
+        stroke: red;
         stroke-miterlimit: 11.34;
-        stroke-width: 2.13px;
+        stroke-width: .03px;
       }
     </style>
   </defs>
-  <path id="outer_top_panel" class="st0" d="M 1.06,1.06 L 63.00,1.06 L 63.00,10.06 L 126.21,10.06 L 126.21,1.06 L 187.72,1.06 L 187.72,10.06 L 250.93,10.06 L 250.93,1.06 L 312.87,1.06 L 312.87,128.62 L 250.93,128.62 L 250.93,119.62 L 187.72,119.62 L 187.72,128.62 L 126.21,128.62 L 126.21,119.62 L 63.00,119.62 L 63.00,128.62 L 1.06,128.62 L 1.06,103.53 L 10.06,103.53 L 10.06,77.17 L 1.06,77.17 L 1.06,52.51 L 10.06,52.51 L 10.06,26.15 L 1.06,26.15 L 1.06,1.06 Z"/>
-  <path id="outer_bottom_panel" class="st0" d="M 409.25,1.06 L 471.19,1.06 L 471.19,10.06 L 534.40,10.06 L 534.40,1.06 L 595.91,1.06 L 595.91,10.06 L 659.12,10.06 L 659.12,1.06 L 721.06,1.06 L 721.06,128.62 L 659.12,128.62 L 659.12,119.62 L 595.91,119.62 L 595.91,128.62 L 534.40,128.62 L 534.40,119.62 L 471.19,119.62 L 471.19,128.62 L 409.25,128.62 L 409.25,103.53 L 418.25,103.53 L 418.25,77.17 L 409.25,77.17 L 409.25,52.51 L 418.25,52.51 L 418.25,26.15 L 409.25,26.15 L 409.25,1.06 Z"/>
-  <path id="outer_front_panel" class="st0" d="M 1.06,225.00 L 63.85,225.00 L 63.85,216.00 L 125.36,216.00 L 125.36,225.00 L 188.57,225.00 L 188.57,216.00 L 250.08,216.00 L 250.08,225.00 L 312.87,225.00 L 312.87,423.43 L 250.08,423.43 L 250.08,432.43 L 188.57,432.43 L 188.57,423.43 L 125.36,423.43 L 125.36,432.43 L 63.85,432.43 L 63.85,423.43 L 1.06,423.43 L 1.06,384.17 L 10.06,384.17 L 10.06,343.63 L 1.06,343.63 L 1.06,304.80 L 10.06,304.80 L 10.06,264.26 L 1.06,264.26 L 1.06,225.00 Z"/>
-  <path id="outer_back_panel" class="st0" d="M 409.25,225.00 L 472.04,225.00 L 472.04,216.00 L 533.55,216.00 L 533.55,225.00 L 596.76,225.00 L 596.76,216.00 L 658.27,216.00 L 658.27,225.00 L 721.06,225.00 L 721.06,423.43 L 658.27,423.43 L 658.27,432.43 L 596.76,432.43 L 596.76,423.43 L 533.55,423.43 L 533.55,432.43 L 472.04,432.43 L 472.04,423.43 L 409.25,423.43 L 409.25,384.17 L 418.25,384.17 L 418.25,343.63 L 409.25,343.63 L 409.25,304.80 L 418.25,304.80 L 418.25,264.26 L 409.25,264.26 L 409.25,225.00 Z"/>
-  <path id="outer_left_small_side_OVERSIZED_CAP_Dplus2T_Hplus2T" class="st0" d="M 799.44,216.00 L 834.38,216.00 L 834.38,207.00 L 859.04,207.00 L 859.04,216.00 L 885.40,216.00 L 885.40,207.00 L 910.06,207.00 L 910.06,216.00 L 945.00,216.00 L 945.00,265.11 L 954.00,265.11 L 954.00,303.94 L 945.00,303.94 L 945.00,344.48 L 954.00,344.48 L 954.00,383.31 L 945.00,383.31 L 945.00,432.43 L 910.06,432.43 L 910.06,441.43 L 885.40,441.43 L 885.40,432.43 L 859.04,432.43 L 859.04,441.43 L 834.38,441.43 L 834.38,432.43 L 799.44,432.43 L 799.44,383.31 L 790.44,383.31 L 790.44,344.48 L 799.44,344.48 L 799.44,303.94 L 790.44,303.94 L 790.44,265.11 L 799.44,265.11 L 799.44,216.00 Z"/>
+  <path id="outer_top_panel" class="st0" d="M.01.01h61.94v9h63.21V.01h61.51v9h63.21V.01h61.94v127.56h-61.94v-9h-63.21v9h-61.51v-9h-63.21v9H.01v-25.09h9v-26.36H.01v-24.66h9v-26.36H.01V.01Z"/>
+  <path id="outer_bottom_panel" class="st0" d="M408.2.01h61.94v9h63.21V.01h61.51v9h63.21V.01h61.94v127.56h-61.94v-9h-63.21v9h-61.51v-9h-63.21v9h-61.94v-25.09h9v-26.36h-9v-24.66h9v-26.36h-9V.01Z"/>
+  <path id="outer_front_panel" class="st0" d="M.01,223.95h62.79v-9h61.51v9h63.21v-9h61.51v9h62.79v198.43h-62.79v9h-61.51v-9h-63.21v9h-61.51v-9H.01v-39.26h9v-40.54H.01v-38.83h9v-40.54H.01v-39.26Z"/>
+  <path id="outer_back_panel" class="st0" d="M408.2,223.95h62.79v-9h61.51v9h63.21v-9h61.51v9h62.79v198.43h-62.79v9h-61.51v-9h-63.21v9h-61.51v-9h-62.79v-39.26h9v-40.54h-9v-38.83h9v-40.54h-9v-39.26Z"/>
+  <path id="outer_left_end_panel" class="st0" d="M889.92,431.38h-25.94v9h-24.66v-9h-26.36v9h-24.66v-9h-25.94v-49.11h-9v-38.83h9v-40.54h-9v-38.83h9v-48.37h25.94v-9.75h24.66v9.75h26.36v-9.75h24.66v9.75h25.94v48.37h9v38.83h-9v40.54h9v38.83h-9v49.11Z"/>
+  <path id="outer_left_end_panel1" data-name="outer_left_end_panel" class="st0" d="M380.08,214.95"/>
+  <path id="outer_left_end_panel2" data-name="outer_left_end_panel" class="st0" d="M380.08,205.95"/>
+  <path class="st0" d="M334.94,205.95"/>
+  <path class="st0" d="M351.31,205.95"/>
+  <path class="st0" d="M325.55,431.38"/>
 </svg>

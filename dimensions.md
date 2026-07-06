@@ -56,7 +56,7 @@ The small side reaches top, bottom, front, and back panels at the corners.
 
 | Property | Value |
 |----------|-------|
-| Sheet size | 344.0 × 156.1 |
+| Sheet size | 317.1 × 155.4 |
 
 ---
 
@@ -104,7 +104,7 @@ Each small side reaches the top panel, bottom panel, and back wall while leaving
 
 | Property | Value |
 |----------|-------|
-| Sheet size | 219.2 × 173.7 |
+| Sheet size | 211.6 × 186.6 |
 
 ---
 
@@ -112,6 +112,6 @@ Each small side reaches the top panel, bottom panel, and back wall while leaving
 
 | File | Purpose |
 |------|---------|
-| `outer_camera_shell.svg` | Outer shell — oversized cap side (Illustrator export) |
-| `inner_drawer.svg` | Inner drawer — oversized cap sides (Illustrator export) |
+| `outer_camera_shell.svg` | Outer shell — Glowforge-ready cut (hairline red stroke) |
+| `inner_drawer.svg` | Inner drawer — Glowforge-ready cut (hairline red stroke) |
 | `archive/` | Superseded earlier iterations |

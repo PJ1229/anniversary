@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 621.26 492.48">
-  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <title>Inner drawer - oversized cap side bits - PREVIEW</title>
+  <metadata><![CDATA[{
+  "units": "Illustrator px, scaled from mm",
+  "px_per_mm": 2.834645669291339,
+  "material_thickness_mm": 3.175,
+  "material_thickness_px": 9.0,
+  "finger_clearance_total_mm": 0.3,
+  "drawer_clearance_each_side_mm": 0.25,
+  "open_face_removed": "largest L x H face",
+  "fix": "inner smallest side bits are now oversized caps, not just tabbed panels",
+  "smallest_side_nominal_mm": {
+    "depth": 38.15,
+    "height": 63.15
+  },
+  "smallest_side_actual_cut_body_mm": {
+    "depth_plus_1_thickness": 41.324999999999996,
+    "height_plus_2_thickness": 69.5
+  },
+  "why": "Each small side reaches the top panel, bottom panel, and back wall while leaving the largest face open.",
+  "verification": {
+    "proper_self_intersections_total": 0,
+    "panel_bbox_overlaps": 0
+  }
+}]]></metadata>
   <defs>
     <style>
       .st0 {
@@ -11,41 +34,9 @@
       }
     </style>
   </defs>
-  <path id="BACK_LxH_panel_opposite_open_face" class="st0" d="M1.06,10.06h43.48V1.06h42.21v9h43.91V1.06h42.21v9h43.91V1.06h42.21v9h43.48v35.38h-9v36.65h9v34.95h-9v36.65h9v35.38h-43.48v9h-42.21v-9h-43.91v9h-42.21v-9h-43.91v9h-42.21v-9H1.06v-35.38h9v-36.65H1.06v-34.95h9v-36.65H1.06V10.06Z"/>
-  <g>
-    <path id="TOP_LxD_second_biggest_long_panel_full_end_sockets" class="st0" d="M11.51,233.56h-2.84,301.39-9"/>
-    <path id="TOP_LxD_second_biggest_long_panel_full_end_sockets1" data-name="TOP_LxD_second_biggest_long_panel_full_end_sockets" class="st0" d="M301.06,341.7h9-42.63v-9h-43.91v9h-42.21v-9h-43.91v9h-42.21v-9h-43.91v9H8.67h2.84"/>
-    <line class="st0" x1="310.06" y1="233.56" x2="310.06" y2="341.7"/>
-    <line class="st0" x1="8.67" y1="233.56" x2="8.67" y2="341.7"/>
-  </g>
-  <g>
-    <path id="TOP_LxD_second_biggest_long_panel_full_end_sockets2" data-name="TOP_LxD_second_biggest_long_panel_full_end_sockets" class="st0" d="M3.91,383.27H1.06h301.39-9"/>
-    <path id="TOP_LxD_second_biggest_long_panel_full_end_sockets3" data-name="TOP_LxD_second_biggest_long_panel_full_end_sockets" class="st0" d="M293.46,491.41h9-42.63v-9h-43.91v9h-42.21v-9h-43.91v9h-42.21v-9h-43.91v9H1.06h2.84"/>
-    <line class="st0" x1="302.46" y1="383.27" x2="302.46" y2="491.41"/>
-    <line class="st0" x1="1.06" y1="383.27" x2="1.06" y2="491.41"/>
-  </g>
-  <g>
-    <path id="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED" class="st0" d="M368.05,200.68h-.43V21.67h.43"/>
-    <path id="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED1" data-name="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED" class="st0" d="M475.34,209.68h-107.29"/>
-    <path id="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED2" data-name="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED" class="st0" d="M475.34,21.67h.43v36.23h9v34.95h-9v36.65h9v34.95h-9v36.23"/>
-    <path id="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED3" data-name="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED" class="st0" d="M368.05,12.67h107.29"/>
-    <line class="st0" x1="368.05" y1="12.67" x2="368.05" y2="12.67"/>
-    <line class="st0" x1="367.63" y1="21.67" x2="367.63" y2="11.67"/>
-    <line class="st0" x1="475.77" y1="21.67" x2="475.77" y2="11.67"/>
-    <line class="st0" x1="475.34" y1="209.68" x2="475.34" y2="209.68"/>
-    <line class="st0" x1="475.77" y1="200.68" x2="475.77" y2="209.68"/>
-    <line class="st0" x1="367.63" y1="200.68" x2="367.63" y2="209.68"/>
-  </g>
-  <g>
-    <path id="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED4" data-name="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED" class="st0" d="M503.48,201.18h-.43V22.17h.43"/>
-    <path id="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED5" data-name="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED" class="st0" d="M610.77,210.18h-107.29"/>
-    <path id="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED6" data-name="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED" class="st0" d="M610.77,22.17h.43v36.23h9v34.95h-9v36.65h9v34.95h-9v36.23"/>
-    <path id="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED7" data-name="LEFT_END_DxH_small_side_FULL_EDGE_EXTENDED" class="st0" d="M503.48,13.17h107.29"/>
-    <line class="st0" x1="503.48" y1="13.17" x2="503.48" y2="13.17"/>
-    <line class="st0" x1="503.06" y1="22.17" x2="503.06" y2="12.17"/>
-    <line class="st0" x1="611.2" y1="22.17" x2="611.2" y2="12.17"/>
-    <line class="st0" x1="610.77" y1="210.18" x2="610.77" y2="210.18"/>
-    <line class="st0" x1="611.2" y1="201.18" x2="611.2" y2="210.18"/>
-    <line class="st0" x1="503.06" y1="201.18" x2="503.06" y2="210.18"/>
-  </g>
+  <path id="inner_BACK_LxH" class="st0" d="M 1.06,10.06 L 44.54,10.06 L 44.54,1.06 L 86.75,1.06 L 86.75,10.06 L 130.65,10.06 L 130.65,1.06 L 172.86,1.06 L 172.86,10.06 L 216.77,10.06 L 216.77,1.06 L 258.97,1.06 L 258.97,10.06 L 302.45,10.06 L 302.45,45.44 L 293.45,45.44 L 293.45,82.09 L 302.45,82.09 L 302.45,117.04 L 293.45,117.04 L 293.45,153.69 L 302.45,153.69 L 302.45,189.07 L 258.97,189.07 L 258.97,198.07 L 216.77,198.07 L 216.77,189.07 L 172.86,189.07 L 172.86,198.07 L 130.65,198.07 L 130.65,189.07 L 86.75,189.07 L 86.75,198.07 L 44.54,198.07 L 44.54,189.07 L 1.06,189.07 L 1.06,153.69 L 10.06,153.69 L 10.06,117.04 L 1.06,117.04 L 1.06,82.09 L 10.06,82.09 L 10.06,45.44 L 1.06,45.44 L 1.06,10.06 Z"/>
+  <path id="inner_TOP_LxD" class="st0" d="M 1.06,233.56 L 302.45,233.56 L 302.45,254.76 L 293.45,254.76 L 293.45,277.24 L 302.45,277.24 L 302.45,298.02 L 293.45,298.02 L 293.45,320.50 L 302.45,320.50 L 302.45,341.70 L 259.82,341.70 L 259.82,332.70 L 215.92,332.70 L 215.92,341.70 L 173.71,341.70 L 173.71,332.70 L 129.80,332.70 L 129.80,341.70 L 87.60,341.70 L 87.60,332.70 L 43.69,332.70 L 43.69,341.70 L 1.06,341.70 L 1.06,320.50 L 10.06,320.50 L 10.06,298.02 L 1.06,298.02 L 1.06,277.24 L 10.06,277.24 L 10.06,254.76 L 1.06,254.76 L 1.06,233.56 Z"/>
+  <path id="inner_BOTTOM_LxD" class="st0" d="M 1.06,383.27 L 43.69,383.27 L 43.69,392.27 L 87.60,392.27 L 87.60,383.27 L 129.80,383.27 L 129.80,392.27 L 173.71,392.27 L 173.71,383.27 L 215.92,383.27 L 215.92,392.27 L 259.82,392.27 L 259.82,383.27 L 302.45,383.27 L 302.45,404.47 L 293.45,404.47 L 293.45,426.95 L 302.45,426.95 L 302.45,447.73 L 293.45,447.73 L 293.45,470.21 L 302.45,470.21 L 302.45,491.41 L 1.06,491.41 L 1.06,470.21 L 10.06,470.21 L 10.06,447.73 L 1.06,447.73 L 1.06,426.95 L 10.06,426.95 L 10.06,404.47 L 1.06,404.47 L 1.06,383.27 Z"/>
+  <path id="inner_LEFT_small_side_OVERSIZED_CAP_DplusT_Hplus2T" class="st0" d="M 368.05,12.67 L 390.10,12.67 L 390.10,3.67 L 410.88,3.67 L 410.88,12.67 L 433.36,12.67 L 433.36,3.67 L 454.14,3.67 L 454.14,12.67 L 485.19,12.67 L 485.19,57.90 L 494.19,57.90 L 494.19,92.85 L 485.19,92.85 L 485.19,129.50 L 494.19,129.50 L 494.19,164.45 L 485.19,164.45 L 485.19,209.68 L 454.14,209.68 L 454.14,218.68 L 433.36,218.68 L 433.36,209.68 L 410.88,209.68 L 410.88,218.68 L 390.10,218.68 L 390.10,209.68 L 368.05,209.68 L 368.05,12.67 Z"/>
+  <path id="inner_RIGHT_small_side_OVERSIZED_CAP_DplusT_Hplus2T" class="st0" d="M 503.48,13.17 L 534.53,13.17 L 534.53,4.17 L 555.31,4.17 L 555.31,13.17 L 577.79,13.17 L 577.79,4.17 L 598.57,4.17 L 598.57,13.17 L 620.62,13.17 L 620.62,210.18 L 598.57,210.18 L 598.57,219.18 L 577.79,219.18 L 577.79,210.18 L 555.31,210.18 L 555.31,219.18 L 534.53,219.18 L 534.53,210.18 L 503.48,210.18 L 503.48,164.95 L 494.48,164.95 L 494.48,130.00 L 503.48,130.00 L 503.48,93.35 L 494.48,93.35 L 494.48,58.40 L 503.48,58.40 L 503.48,13.17 Z"/>
 </svg>
