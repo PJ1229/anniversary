@@ -1,24 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 898.93 440.39">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 578.18 701.84">
   <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
   <defs>
     <style>
-      .st0 {
+      .st0, .st1 {
         fill: none;
         stroke: red;
         stroke-miterlimit: 11.34;
+      }
+
+      .st1 {
         stroke-width: .03px;
       }
     </style>
   </defs>
-  <path id="outer_top_panel" class="st0" d="M.01.01h61.94v9h63.21V.01h61.51v9h63.21V.01h61.94v127.56h-61.94v-9h-63.21v9h-61.51v-9h-63.21v9H.01v-25.09h9v-26.36H.01v-24.66h9v-26.36H.01V.01Z"/>
-  <path id="outer_bottom_panel" class="st0" d="M408.2.01h61.94v9h63.21V.01h61.51v9h63.21V.01h61.94v127.56h-61.94v-9h-63.21v9h-61.51v-9h-63.21v9h-61.94v-25.09h9v-26.36h-9v-24.66h9v-26.36h-9V.01Z"/>
-  <path id="outer_front_panel" class="st0" d="M.01,223.95h62.79v-9h61.51v9h63.21v-9h61.51v9h62.79v198.43h-62.79v9h-61.51v-9h-63.21v9h-61.51v-9H.01v-39.26h9v-40.54H.01v-38.83h9v-40.54H.01v-39.26Z"/>
-  <path id="outer_back_panel" class="st0" d="M408.2,223.95h62.79v-9h61.51v9h63.21v-9h61.51v9h62.79v198.43h-62.79v9h-61.51v-9h-63.21v9h-61.51v-9h-62.79v-39.26h9v-40.54h-9v-38.83h9v-40.54h-9v-39.26Z"/>
-  <path id="outer_left_end_panel" class="st0" d="M889.92,431.38h-25.94v9h-24.66v-9h-26.36v9h-24.66v-9h-25.94v-49.11h-9v-38.83h9v-40.54h-9v-38.83h9v-48.37h25.94v-9.75h24.66v9.75h26.36v-9.75h24.66v9.75h25.94v48.37h9v38.83h-9v40.54h9v38.83h-9v49.11Z"/>
-  <path id="outer_left_end_panel1" data-name="outer_left_end_panel" class="st0" d="M380.08,214.95"/>
-  <path id="outer_left_end_panel2" data-name="outer_left_end_panel" class="st0" d="M380.08,205.95"/>
-  <path class="st0" d="M334.94,205.95"/>
-  <path class="st0" d="M351.31,205.95"/>
-  <path class="st0" d="M325.55,431.38"/>
+  <path id="outer_front_panel" class="st0" d="M247.87,139.12h62.79v-9h61.51v9h63.21v-9h61.51v9h80.79v198.43h-80.79v9h-61.51v-9h-63.21v9h-61.51v-9h-62.79v-39.26h9v-40.54h-9v-38.83h9v-40.54h-9v-39.26Z"/>
+  <path id="outer_back_panel" class="st0" d="M247.87,493.91h62.79v-9h61.51v9h63.21v-9h61.51v9h62.79v198.43h-62.79v9h-61.51v-9h-63.21v9h-61.51v-9h-62.79v-39.26h9v-40.54h-9v-38.83h9v-40.54h-9v-39.26h0Z"/>
+  <path id="outer_left_end_panel1" class="st1" d="M577.61,139.12"/>
+  <path id="outer_left_end_panel2" class="st1" d="M577.61,129.09"/>
+  <path class="st1" d="M532.47,130.12"/>
+  <path class="st1" d="M548.84,130.12"/>
+  <path class="st1" d="M523.08,355.55"/>
+  <g>
+    <line class="st0" x1="9.5" y1="17.44" x2="9.5" y2="9.5"/>
+    <g>
+      <g>
+        <path id="outer_left_end_panel" class="st0" d="M225.18,17.44h9.75v24.66h-9.75v26.36h9.75v24.66h-9.75v25.94h-48.37v9h-38.83v-9h-40.54v9h-38.83v-9H9.5v-25.94H.5v-24.66h9v-26.36H.5v-24.66h9"/>
+        <path id="outer_left_end_panel3" data-name="outer_left_end_panel" class="st0" d="M9.88,9.5h49.11V.5h38.83v9h40.54V.5h38.83v9h48.37"/>
+      </g>
+      <line class="st0" x1="225.18" y1="17.44" x2="225.18" y2="9.5"/>
+    </g>
+  </g>
+  <g>
+    <line class="st0" x1="247.87" y1="470.51" x2="247.87" y2="463.42"/>
+    <g>
+      <g>
+        <path id="outer_top_panel" class="st0" d="M577.68,470.51h-79.94s0-9,0-9h-63.21v9s-61.51,0-61.51,0v-9h-63.21v9s-61.94,0-61.94,0"/>
+        <path id="outer_top_panel1" data-name="outer_top_panel" class="st0" d="M247.87,463.42h9v-26.36h-9s0-24.66,0-24.66h9v-26.36h-9s0-25.09,0-25.09h61.94s0,9,0,9h63.21v-9s61.51,0,61.51,0v9h63.21v-9s79.94,0,79.94,0"/>
+      </g>
+      <line class="st0" x1="577.68" y1="470.51" x2="577.68" y2="360.95"/>
+    </g>
+  </g>
+  <g>
+    <line class="st0" x1="247.87" y1="9.5" x2="247.87" y2="16.59"/>
+    <g>
+      <g>
+        <path id="outer_top_panel2" data-name="outer_top_panel" class="st0" d="M247.87,9.5h61.94v9s63.21,0,63.21,0v-9h61.51v9s63.21,0,63.21,0v-9h79.94"/>
+        <path id="outer_top_panel3" data-name="outer_top_panel" class="st0" d="M577.68,119.06h-79.94v-9s-63.21,0-63.21,0v9h-61.51v-9s-63.21,0-63.21,0v9h-61.94v-25.09h9s0-26.36,0-26.36h-9v-24.66h9s0-26.36,0-26.36h-9"/>
+      </g>
+      <line class="st0" x1="577.68" y1="9.5" x2="577.68" y2="119.06"/>
+    </g>
+  </g>
 </svg>
