@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 599.8 529.04">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 601.77 531.01">
   <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
   <defs>
     <style>
@@ -7,13 +7,13 @@
         fill: none;
         stroke: red;
         stroke-miterlimit: 11.34;
-        stroke-width: .03px;
+        stroke-width: 2px;
       }
     </style>
   </defs>
-  <path id="BACK_LxH_opposite_open_largest_face" class="st0" d="M9.01,9.01h43.48V.01h42.21v9h43.91V.01h42.21v9h43.91V.01h42.21v9h43.48v36.23h9v34.95h-9v36.65h9v34.95h-9v36.23h-43.48v9h-42.21v-9h-43.91v9h-42.21v-9h-43.91v9h-42.21v-9H9.01v-36.23H.01v-34.95h9v-36.65H.01v-34.95h9V9.01Z"/>
-  <path id="TOP_LxD_cap_smooth_open_front_edge" class="st0" d="M9.01,250.38h301.39v36.47h9v35.19h-9v36.47h-42.63v-9h-43.91v9h-42.21v-9h-43.91v9h-42.21v-9h-43.91v9H9.01v-36.47H.01v-35.19h9v-36.47Z"/>
-  <path id="BOTTOM_LxD_floor_smooth_open_front_edge" class="st0" d="M9.01,420.89h42.63v9h43.91v-9h42.21v9h43.91v-9h42.21v9h43.91v-9h42.63v36.47h9v35.19h-9v36.47H9.01v-36.47H.01v-35.19h9v-36.47Z"/>
-  <path id="LEFT_END_DxH_smooth_open_front_edge" class="st0" d="M372.77.01h35.62v9h36.9V.01h35.62v44.38h-9v36.65h9v34.95h-9v36.65h9v44.38h-35.62v-9h-36.9v9h-35.62V.01Z"/>
-  <path id="LEFT_END_DxH_smooth_open_front_edge1" data-name="LEFT_END_DxH_smooth_open_front_edge" class="st0" d="M491.64.01h35.62v9h36.9V.01h35.62v44.38h-9v36.65h9v34.95h-9v36.65h9v44.38h-35.62v-9h-36.9v9h-35.62V.01Z"/>
+  <path id="BACK_LxH_opposite_open_largest_face" class="st0" d="M10,10h43.48V1h42.21v9h43.91V1h42.21v9h43.91V1h42.21v9h43.48v36.23h9v34.95h-9v36.65h9v34.95h-9v36.23h-43.48v9h-42.21v-9h-43.91v9h-42.21v-9h-43.91v9h-42.21v-9H10v-36.23H1v-34.95h9v-36.65H1v-34.95h9V10Z"/>
+  <path id="TOP_LxD_cap_smooth_open_front_edge" class="st0" d="M10,251.37h301.39v36.47h9v35.19h-9v36.47h-42.63v-9h-43.91v9h-42.21v-9h-43.91v9h-42.21v-9h-43.91v9H10v-36.47H1v-35.19h9v-36.47Z"/>
+  <path id="BOTTOM_LxD_floor_smooth_open_front_edge" class="st0" d="M10,421.88h42.63v9h43.91v-9h42.21v9h43.91v-9h42.21v9h43.91v-9h42.63v36.47h9v35.19h-9v36.47H10v-36.47H1v-35.19h9v-36.47Z"/>
+  <path id="LEFT_END_DxH_smooth_open_front_edge" class="st0" d="M373.76,1h35.62v9h36.9V1h35.62v44.38h-9v36.65h9v34.95h-9v36.65h9v44.38h-35.62v-9h-36.9v9h-35.62V1Z"/>
+  <path id="LEFT_END_DxH_smooth_open_front_edge1" class="st0" d="M492.63,1h35.62v9h36.9V1h35.62v44.38h-9v36.65h9v34.95h-9v36.65h9v44.38h-35.62v-9h-36.9v9h-35.62V1Z"/>
 </svg>
