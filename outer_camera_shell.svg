@@ -21,15 +21,18 @@
   <path class="st1" d="M744.51,121.12"/>
   <path class="st1" d="M760.88,121.12"/>
   <path class="st1" d="M735.12,346.55"/>
-  <line class="st0" x1="339.27" y1="328.55" x2="331.33" y2="328.55"/>
+  <path class="st0" d="M340.39,328.93"/>
+  <path class="st0" d="M339.27,328.55"/>
   <g>
     <g>
-      <path id="outer_left_end_panel" class="st0" d="M440.89,328.55h-25.94v9h-24.66v-9h-26.36v9h-24.66v-9"/>
-      <path id="outer_left_end_panel3" data-name="outer_left_end_panel" class="st0" d="M440.89,170.24h9v38.83h-9v40.54h9v38.83h-9"/>
-      <path id="outer_left_end_panel4" data-name="outer_left_end_panel" class="st0" d="M339.28,130.07v-9.75h24.66v9.75h26.36v-9.75h24.66v9.75h25.94"/>
-      <path id="uuid-8b64f10e-7528-4e7f-a846-4639e6d3341f" data-name="outer_left_end_panel3" class="st0" d="M331.33,328.17v-40.11h-9v-38.83h9v-40.54h-9v-38.83h9v-40.16"/>
+      <path id="outer_left_end_panel" class="st0" d="M340.42,337.55v-9"/>
+      <path id="outer_left_end_panel3" data-name="outer_left_end_panel" class="st0" d="M440.89,328.55h-25.94v9h-24.66v-9h-26.36v9"/>
+      <path id="outer_left_end_panel4" data-name="outer_left_end_panel" class="st0" d="M440.89,170.24h9v38.83h-9v40.54h9v38.83h-9"/>
+      <path id="outer_left_end_panel5" data-name="outer_left_end_panel" class="st0" d="M340.36,129.7v-9.38h23.58v9.75h26.36v-9.75h24.66v9.75h25.94"/>
+      <path id="uuid-adc2cb15-da49-42bc-bfa5-b9e9dc7c9dc9" data-name="outer_left_end_panel3" class="st0" d="M340.39,328.55v-40.11h-9v-38.83h9v-40.54h-9v-38.83h9v-40.54"/>
     </g>
-    <line class="st0" x1="339.28" y1="130.07" x2="331.34" y2="130.07"/>
+    <path class="st0" d="M340.4,130.45"/>
+    <path class="st0" d="M339.28,130.07"/>
   </g>
   <g>
     <line class="st0" x1="459.92" y1="461.51" x2="459.92" y2="454.42"/>
@@ -42,18 +45,20 @@
     </g>
   </g>
   <g>
-    <line class="st0" x1="459.92" y1=".5" x2="459.92" y2="7.59"/>
+    <line class="st0" x1="459.92" y1=".5" x2="459.92" y2="9.5"/>
     <g>
       <g>
         <path id="outer_top_panel2" class="st0" d="M459.92.5h61.94v9h63.21V.5h61.51v9h63.21V.5h79.94"/>
-        <path id="outer_top_panel3" class="st0" d="M789.73,110.06h-79.94v-9h-63.21v9h-61.51v-9h-63.21v9h-61.94v-25.09h9v-26.36h-9v-24.66h9V7.59h-9"/>
+        <path id="outer_top_panel3" class="st0" d="M789.73,110.06h-79.94v-9h-63.21v9h-61.51v-9h-63.21v9h-61.94v-25.09h9v-26.36h-9v-24.66h9V9.5h-9"/>
       </g>
       <line class="st0" x1="789.73" y1=".5" x2="789.73" y2="110.06"/>
     </g>
   </g>
   <path id="outer_back_panel1" data-name="outer_back_panel" class="st0" d="M317.32,129.7"/>
-  <path id="uuid-06e0f1b0-41a7-44ee-a930-4c4b263d0109" data-name="outer_left_end_panel3" class="st0" d="M440.89,169.86v-40.16"/>
-  <path id="outer_back_panel2" data-name="outer_back_panel" class="st0" d="M324.17,337.17"/>
-  <path id="outer_back_panel3" data-name="outer_back_panel" class="st0" d="M324.17,328.17"/>
-  <path id="uuid-b62d1c3b-ff41-494b-8b69-8afd12448d56" data-name="outer_left_end_panel3" class="st0" d="M440.89,328.55v-40.11"/>
+  <path id="uuid-3f99d1b2-e04d-4535-ac53-a0296a8ed7f9" data-name="outer_left_end_panel3" class="st0" d="M440.89,169.86v-40.16"/>
+  <path id="outer_back_panel2" data-name="outer_back_panel" class="st0" d="M333.23,337.55"/>
+  <path id="outer_back_panel3" data-name="outer_back_panel" class="st0" d="M333.23,328.55"/>
+  <path id="uuid-679fe791-a2c8-4c17-bc9f-a53cc162823e" data-name="outer_left_end_panel3" class="st0" d="M440.89,328.55v-40.11"/>
+  <path id="outer_top_panel21" data-name="outer_top_panel2" class="st0" d="M340.42,130.08"/>
+  <path id="outer_left_end_panel6" data-name="outer_left_end_panel" class="st0" d="M340.42,337.55h23.58"/>
 </svg>
