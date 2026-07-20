@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 691.92 307.08">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st1 {
+        fill: none;
+        stroke: red;
+      }
+
+      .st1 {
+        stroke-miterlimit: 11.34;
+        stroke-width: .03px;
+      }
+    </style>
+  </defs>
+  <path id="outer_left_end_panel1" class="st1" d="M691.92,90.65"/>
+  <path id="outer_left_end_panel2" class="st1" d="M691.92,80.62"/>
+  <path class="st1" d="M646.78,81.65"/>
+  <path class="st1" d="M663.15,81.65"/>
+  <path class="st1" d="M637.39,307.08"/>
+  <g>
+    <circle class="st0" cx="376.63" cy="191.54" r="68.35"/>
+    <rect class="st0" x="350.55" y="165.46" width="52.15" height="52.15"/>
+  </g>
+  <circle class="st0" cx="532.24" cy="191.54" r="68.35"/>
+  <g>
+    <line class="st0" x1="506.16" y1="204.23" x2="519.55" y2="217.61"/>
+    <line class="st0" x1="544.93" y1="165.46" x2="558.32" y2="178.85"/>
+    <line class="st0" x1="558.32" y1="204.23" x2="544.93" y2="217.61"/>
+    <line class="st0" x1="519.55" y1="165.46" x2="506.16" y2="178.85"/>
+    <line class="st0" x1="506.16" y1="178.85" x2="506.16" y2="204.23"/>
+    <line class="st0" x1="519.55" y1="217.61" x2="544.93" y2="217.61"/>
+    <line class="st0" x1="558.32" y1="204.23" x2="558.32" y2="178.85"/>
+    <line class="st0" x1="544.93" y1="165.46" x2="519.55" y2="165.46"/>
+  </g>
+  <circle class="st0" cx="221.02" cy="191.54" r="68.35"/>
+  <g>
+    <circle class="st0" cx="68.85" cy="191.54" r="68.35"/>
+    <circle class="st0" cx="68.85" cy="191.54" r="57.47"/>
+  </g>
+  <g>
+    <circle class="st0" cx="151.97" cy="61.18" r="56.78"/>
+    <rect class="st0" x="126.59" y="35.11" width="52.15" height="52.15"/>
+  </g>
+  <g>
+    <circle class="st0" cx="289.37" cy="57.28" r="56.78"/>
+    <g>
+      <line class="st0" x1="263.3" y1="69.97" x2="276.68" y2="83.36"/>
+      <line class="st0" x1="302.07" y1="31.21" x2="315.45" y2="44.59"/>
+      <line class="st0" x1="315.45" y1="69.97" x2="302.07" y2="83.36"/>
+      <line class="st0" x1="276.68" y1="31.21" x2="263.3" y2="44.59"/>
+      <line class="st0" x1="263.3" y1="44.59" x2="263.3" y2="69.97"/>
+      <line class="st0" x1="276.68" y1="83.36" x2="302.07" y2="83.36"/>
+      <line class="st0" x1="315.45" y1="69.97" x2="315.45" y2="44.59"/>
+      <line class="st0" x1="302.07" y1="31.21" x2="276.68" y2="31.21"/>
+    </g>
+  </g>
+</svg>
